@@ -29,6 +29,8 @@ The repository includes scripts that demonstrate fundamental and advanced Solidi
 - FavoriteRecords: Manages a collection of favorite records, introducing mappings, custom errors, and array manipulation.
 - BasicMath: Demonstrates safe mathematical operations with checks for overflow and underflow.
 - ArraysExercise: Explores operations on dynamic arrays, including appending, filtering, and resetting.
+- ControlStructures: Introduces control structures in Solidity with a classic FizzBuzz implementation and custom error handling based on time conditions.
+= EmployeeStorage: Covers storage optimization and data types in Solidity, including using custom errors for validating conditions.
 
 ### Getting Started with Remix IDE
 
