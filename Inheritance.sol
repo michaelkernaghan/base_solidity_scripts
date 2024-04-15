@@ -1,8 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-// First deploy Saleperson and EngineeringManager contracts and then use those contract addresses when deploying InheritanceSubmission
-// Abstract base contract for employees
+
 abstract contract Employee {
     uint public idNumber;
     uint public managerId;
